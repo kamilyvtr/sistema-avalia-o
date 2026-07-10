@@ -1,0 +1,26 @@
+# Ambientes virtuais e dependências PHP
+/vendor/
+composer.lock
+
+# Arquivos de ambiente (senhas e credenciais)
+.env
+.env.local
+.env.*.local
+
+# Configurações de IDE
+.vscode/
+.idea/
+*.sublime-project
+
+# Logs e caches
+*.log
+/cache/
+/logs/
+
+# Pastas de upload (se houver)
+/public/uploads/
+/uploads/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
