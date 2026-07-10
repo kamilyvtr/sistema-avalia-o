@@ -1,0 +1,12 @@
+{
+    "name": "kamilyvtr/sistema-avalia-o",
+    "description": "Sistema de avaliação em PHP com Tailwind CSS para coleta de feedbacks - projeto de estudo de banco de dados",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
